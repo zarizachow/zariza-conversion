@@ -1,0 +1,5 @@
+Conversion functions needed:
+- Dollar to Cents
+- Gallons to Litres
+- Hours to Minutes
+
